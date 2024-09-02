@@ -13,7 +13,6 @@ goharbor/harbor-portal:v2.11.0
 goharbor/redis-photon:v2.11.0
 goharbor/registry-photon:v2.11.0
 goharbor/harbor-registryctl:v2.11.0
-harbor.homelabs.com.cn/homeserver-ddns
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
 ghcr.io/immich-app/immich-server:release
@@ -23,12 +22,9 @@ docker.bintray.io/jfrog/artifactory-oss:7.33.9
 releases-docker.jfrog.io/jfrog/artifactory-oss:7.77.5
 bitnami/openldap:2.6
 osixia/phpldapadmin:stable
-harbor.bokesoft.com/erp-public/mirrors:latest
-harbor.bokesoft.com/distro/x86_64.basic.jdk.maven.node18.18.debian12.1.dev:1.5
 mysql:5
 mysql:8
 sonatype/nexus3:latest
-harbor.homelabs.com.cn/library/nginx-proxy-manager:2.11.3
+jc21/nginx-proxy-manager:2.11.3
 lscr.io/linuxserver/qbittorrent:latest
-harbor.bokesoft.com/erp-public/trac-svn:1.2.6
 node:20-alpine
