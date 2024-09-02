@@ -3,7 +3,8 @@ name: Docker
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    tags: 
+      - \[release\]*
   schedule:
     - cron: '01 */1 * * *'
 
