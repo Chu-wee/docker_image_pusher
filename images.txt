@@ -26,6 +26,7 @@ osixia/phpldapadmin:stable
 harbor.bokesoft.com/erp-public/mirrors:latest
 harbor.bokesoft.com/distro/x86_64.basic.jdk.maven.node18.18.debian12.1.dev:1.5
 mysql:5
+mysql:8
 sonatype/nexus3:latest
 harbor.homelabs.com.cn/library/nginx-proxy-manager:2.11.3
 lscr.io/linuxserver/qbittorrent:latest
