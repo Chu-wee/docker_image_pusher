@@ -45,4 +45,9 @@ sonatype/nexus3:latest
 tensorchord/pgvecto-rs:pg14-v0.2.0
 tomcat:10.0-jdk8
 tunathu/mirror-web:latest
+ubuntu:18.04
+ubuntu:20.04
+ubuntu:22.04
+ubuntu:24.04
+ubuntu:latest
 xhofe/alist:latest
