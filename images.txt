@@ -51,3 +51,7 @@ ubuntu:22.04
 ubuntu:24.04
 ubuntu:latest
 xhofe/alist:latest
+sickcodes/docker-osx:latest
+sickcodes/docker-osx:big-sur
+sickcodes/docker-osx:monterey
+sickcodes/docker-osx:ventura
