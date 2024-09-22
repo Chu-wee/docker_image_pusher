@@ -53,6 +53,10 @@ ubuntu:latest
 xhofe/alist:latest
 debian:latest
 debian:12
+debian:11
+centos:latest
+centos:7
+centos:8
 # sickcodes/docker-osx:latest
 # sickcodes/docker-osx:big-sur
 # sickcodes/docker-osx:monterey
