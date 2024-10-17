@@ -67,3 +67,4 @@ centos:8
 # sickcodes/docker-osx:ventura
 registry:latest
 registry:2
+ghcr.io/gethomepage/homepage:latest
