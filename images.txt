@@ -61,3 +61,6 @@ centos:8
 # sickcodes/docker-osx:big-sur
 # sickcodes/docker-osx:monterey
 # sickcodes/docker-osx:ventura
+
+registry:latest
+registry:2
