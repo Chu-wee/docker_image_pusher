@@ -25,6 +25,7 @@ lscr.io/linuxserver/qbittorrent:latest
 mcr.microsoft.com/java/jdk:17-zulu-ubuntu
 mcr.microsoft.com/java/jdk:8-zulu-ubuntu
 mcr.microsoft.com/mssql/server:2022-latest
+mcr.microsoft.com/mssql/server:latest
 mongo:latest
 mysql:5
 mysql:8
