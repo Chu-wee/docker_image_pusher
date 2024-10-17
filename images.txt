@@ -40,8 +40,8 @@ redis:6.2-alpine
 redis:latest
 registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.2-dind-allinone
 registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.2-arm64-dind-allinone
-registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.3-dind-allinone
-registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.15.3-arm64-dind-allinone
+registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.17.3-dind-allinone
+registry.cn-hangzhou.aliyuncs.com/goodrain/rainbond:v5.17.3-arm64-dind-allinone
 registry.gitlab.cn/omnibus/gitlab-jh:15.11.2
 releases-docker.jfrog.io/jfrog/artifactory-oss:7.77.5
 sonarqube:8.9-community
