@@ -1,6 +1,6 @@
-node-exporter:latest
-prometheus:latest
-grafana:latest
+prom/node-exporter:latest
+prom/prometheus:latest
+grafana/grafana:latest
 aceberg/watchyourports
 bitnami/openldap:2.6
 cloudreve/cloudreve:latest
