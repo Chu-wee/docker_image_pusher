@@ -1,4 +1,6 @@
-
+node-exporter:latest
+prometheus:latest
+grafana:latest
 aceberg/watchyourports
 bitnami/openldap:2.6
 cloudreve/cloudreve:latest
