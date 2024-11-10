@@ -11,7 +11,6 @@ openresty/openresty:centos
 openresty/openresty:centos7
 openresty/openresty:fedora
 openresty/openresty:rocky
-openresty/openresty:windows
 openresty/openresty:1.21.4.2-0-alpine-fat
 openresty/openresty:1.21.4.2-0-alpine
 openresty/openresty:1.21.4.2-0-bionic
@@ -25,7 +24,6 @@ openresty/openresty:1.21.4.2-0-centos
 openresty/openresty:1.21.4.2-0-centos7
 openresty/openresty:1.21.4.2-0-fedora
 openresty/openresty:1.21.4.2-0-rocky
-openresty/openresty:1.21.4.2-0-windows
 
 
 prom/node-exporter:latest
