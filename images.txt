@@ -1,3 +1,15 @@
+openresty/openresty:jammy
+openresty/openresty:focal
+openresty/openresty:bullseye-fat
+openresty/openresty:alpine
+openresty/openresty:alpine-apk
+openresty/openresty:1.21.4.2-0-jammy
+openresty/openresty:1.21.4.2-0-focal
+openresty/openresty:1.21.4.2-0-bullseye-fat
+openresty/openresty:1.21.4.2-0-alpine
+openresty/openresty:1.21.4.2-0-alpine-apk
+
+
 prom/node-exporter:latest
 prom/prometheus:latest
 grafana/grafana:latest
