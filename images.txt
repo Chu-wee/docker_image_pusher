@@ -36,6 +36,7 @@ docker.bintray.io/jfrog/artifactory-oss:7.33.9
 elasticsearch:8.6.0
 ghcr.io/immich-app/immich-machine-learning:release
 ghcr.io/immich-app/immich-server:release
+
 gitlab/gitlab-ce:14.2.3-ce.0
 gitlab/gitlab-ce:15.11.2-ce.0
 gitlab/gitlab-ce:15.11.13-ce.0
@@ -46,6 +47,19 @@ gitlab/gitlab-ce:17.3.6-ce.0
 gitlab/gitlab-ce:17.5.1-ce.0
 
 gitlab/gitlab-runner:ubuntu-v16.7.1
+
+goharbor/prepare:v2.11.2
+goharbor/harbor-core:v2.11.2
+goharbor/harbor-db:v2.11.2
+goharbor/harbor-jobservice:v2.11.2
+goharbor/harbor-log:v2.11.2
+goharbor/harbor-portal:v2.11.2
+goharbor/harbor-registryctl:v2.11.2
+goharbor/nginx-photon:v2.11.2
+goharbor/redis-photon:v2.11.2
+goharbor/registry-photon:v2.11.2
+
+goharbor/prepare:v2.11.0
 goharbor/harbor-core:v2.11.0
 goharbor/harbor-db:v2.11.0
 goharbor/harbor-jobservice:v2.11.0
@@ -55,6 +69,7 @@ goharbor/harbor-registryctl:v2.11.0
 goharbor/nginx-photon:v2.11.0
 goharbor/redis-photon:v2.11.0
 goharbor/registry-photon:v2.11.0
+
 jc21/nginx-proxy-manager:2.11.3
 jc21/nginx-proxy-manager:latest
 jeessy/ddns-go
