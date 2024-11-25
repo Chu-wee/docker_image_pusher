@@ -1,4 +1,4 @@
-mcr.microsoft.com/windows/servercore:ltsc2019
+# mcr.microsoft.com/windows/servercore:ltsc2019
 nowsci/samba-domain
 
 openresty/openresty:alpine-fat
