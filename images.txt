@@ -1,3 +1,4 @@
+microsoft/windowsservercore
 nowsci/samba-domain
 
 openresty/openresty:alpine-fat
