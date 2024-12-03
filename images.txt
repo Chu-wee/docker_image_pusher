@@ -48,6 +48,8 @@ gitlab/gitlab-ce:16.7.10-ce.0
 gitlab/gitlab-ce:16.11.10-ce.0
 gitlab/gitlab-ce:17.3.6-ce.0
 gitlab/gitlab-ce:17.5.1-ce.0
+gitlab/gitlab-ce:17.5.3-ce.0
+gitlab/gitlab-ce:17.6.1-ce.0
 
 gitlab/gitlab-runner:ubuntu
 gitlab/gitlab-runner:ubuntu-v17.6.0
