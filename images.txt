@@ -1,4 +1,5 @@
 # mcr.microsoft.com/windows/servercore:ltsc2019
+soulteary/docker-dnsmasq
 nowsci/samba-domain
 
 openresty/openresty:alpine-fat
