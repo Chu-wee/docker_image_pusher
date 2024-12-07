@@ -1,4 +1,5 @@
 # mcr.microsoft.com/windows/servercore:ltsc2019
+ soulteary/easy-esxi-builder:2023.01.29
 soulteary/docker-dnsmasq
 nowsci/samba-domain
 
