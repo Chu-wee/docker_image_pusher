@@ -1,3 +1,10 @@
+azul/zulu-openjdk-debian:8-latest
+azul/zulu-openjdk-debian:11-latest
+azul/zulu-openjdk-debian:17-latest
+azul/zulu-openjdk-debian:21-latest
+azul/zulu-openjdk-debian:22-latest
+azul/zulu-openjdk-debian:23-latest
+
 # mcr.microsoft.com/windows/servercore:ltsc2019
 python:3.7
 soulteary/easy-esxi-builder:2023.01.29
