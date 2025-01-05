@@ -1,3 +1,4 @@
+arm64v8/mysql:8
 azul/zulu-openjdk-debian:8-latest
 azul/zulu-openjdk-debian:11-latest
 azul/zulu-openjdk-debian:17-latest
@@ -100,6 +101,7 @@ mongo:latest
 mysql:5
 mysql:8
 mysql:8.0.28
+
 nginx:latest
 node:20-alpine
 osixia/phpldapadmin:stable
