@@ -1,6 +1,7 @@
 --platform=linux/arm64 arm64v8/mysql:8
 --platform=linux/arm64 azul/zulu-openjdk:8u432-8.82-arm64
 
+adolfintel/speedtest:latest
 openspeedtest/latest
 azul/zulu-openjdk-debian:8-latest
 azul/zulu-openjdk-debian:11-latest
