@@ -70,17 +70,15 @@ gitlab/gitlab-ce:17.6.1-ce.0
 gitlab/gitlab-ce:17.8.2-ce.0
 gitlab/gitlab-ce:17.9.0-ce.0
 
-gitlab/gitlab-runner:ubuntu-v14.2.3
-gitlab/gitlab-runner:ubuntu-v15.11.2
-gitlab/gitlab-runner:ubuntu-v15.11.13
-gitlab/gitlab-runner:ubuntu-v16.3.9
-gitlab/gitlab-runner:ubuntu-v16.7.10
-gitlab/gitlab-runner:ubuntu-v16.11.10
-gitlab/gitlab-runner:ubuntu-v17.3.6
-gitlab/gitlab-runner:ubuntu-v17.5.1
-gitlab/gitlab-runner:ubuntu-v17.5.3
+gitlab/gitlab-runner:ubuntu-v14.2.0
+gitlab/gitlab-runner:ubuntu-v15.11.1
+gitlab/gitlab-runner:ubuntu-v16.3.1
+gitlab/gitlab-runner:ubuntu-v16.7.1
+gitlab/gitlab-runner:ubuntu-v16.11.4
+gitlab/gitlab-runner:ubuntu-v17.3.3
+gitlab/gitlab-runner:ubuntu-v17.5.5
 gitlab/gitlab-runner:ubuntu-v17.6.1
-gitlab/gitlab-runner:ubuntu-v17.8.2
+gitlab/gitlab-runner:ubuntu-v17.8.3
 gitlab/gitlab-runner:ubuntu-v17.9.0
 
 goharbor/prepare:v2.11.2
