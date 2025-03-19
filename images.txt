@@ -1,3 +1,5 @@
+jumpercloud/jumper-server:latest
+
 --platform=linux/arm64 arm64v8/mysql:8
 --platform=linux/arm64 azul/zulu-openjdk:8u432-8.82-arm64
 
