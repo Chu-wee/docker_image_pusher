@@ -154,7 +154,7 @@ xhofe/alist:latest
 debian:latest
 debian:12
 debian:11
-centos:latest
+# centos:latest 这个镜像已被删除
 centos:7
 centos:8
 # sickcodes/docker-osx:latest
