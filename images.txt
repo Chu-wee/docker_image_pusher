@@ -7,6 +7,13 @@ ghcr.io/librespeed/speedtest:latest-alpine
 
 # adolfintel/speedtest:latest
 openspeedtest/latest
+azul/zulu-openjdk:8-latest
+azul/zulu-openjdk:11-latest
+azul/zulu-openjdk:17-latest
+azul/zulu-openjdk:21-latest
+azul/zulu-openjdk:22-latest
+azul/zulu-openjdk:23-latest
+
 azul/zulu-openjdk-debian:8-latest
 azul/zulu-openjdk-debian:11-latest
 azul/zulu-openjdk-debian:17-latest
