@@ -1,3 +1,4 @@
+uozi/nginx-ui:latest
 jumpserver/jms_all
 
 --platform=linux/arm64 arm64v8/mysql:8
